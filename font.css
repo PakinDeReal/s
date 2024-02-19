@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'comic-sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('comic-sans'), url('https://github.com/kristopolous/lowcon/raw/master/fonts/comic-sans.woff') format('woff');
+}
